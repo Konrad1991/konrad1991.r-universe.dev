@@ -1,0 +1,26 @@
+[
+  {
+    "package": "ast2ast",
+    "url": "https://github.com/Konrad1991/ast2ast"
+  },
+  {
+    "package": "sundials",
+    "url": "https://github.com/Konrad1991/sundials"
+  },
+  {
+    "package": "paropt",
+    "url": "https://github.com/Konrad1991/paropt"
+  },
+  {
+    "package": "dfdr",
+    "url": "https://github.com/Konrad1991/dfdr"
+  },
+  {
+    "package": "Random",
+    "url": "https://github.com/Konrad1991/Random"
+  },
+  {
+    "package": "rayplot",
+    "url": "https://github.com/Konrad1991/rayplot"
+  }
+]
