@@ -18,5 +18,25 @@
   {
     "package": "rayplot",
     "url": "https://github.com/Konrad1991/rayplot"
+  },
+  {
+    "package": "OpenStats",
+    "url": "https://github.com/ComPlat/OpenStats",
+    "subdir": "OpenStats"
+  },
+  {
+    "package": "OpenDOE",
+    "url": "https://github.com/ComPlat/OpenStats",
+    "subdir": "OpenDOE"
+  },
+  {
+    "package": "Randomization",
+    "url": "https://github.com/ComPlat/OpenStats",
+    "subdir": "Randomization"
+  },
+  {
+    "package": "tsf",
+    "url": "https://github.com/ComPlat/Thermosimfit",
+    "subdir": "tsf"
   }
 ]
