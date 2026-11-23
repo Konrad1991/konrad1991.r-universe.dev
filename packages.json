@@ -8,10 +8,6 @@
     "url": "https://github.com/Konrad1991/sundials"
   },
   {
-    "package": "paropt",
-    "url": "https://github.com/Konrad1991/paropt"
-  },
-  {
     "package": "dfdr",
     "url": "https://github.com/Konrad1991/dfdr"
   },
